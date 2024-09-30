@@ -1,4 +1,4 @@
-# Import de requests & BeatifulSoup poueeeeet
+# Import de requests & BeatifulSoup
 
 import requests
 from bs4 import BeautifulSoup
