@@ -32,6 +32,7 @@ python_jobs = results.find_all(
 
 
 # Rechercher dans les balises
+
 python_job_elements = [
     h2_element.parent.parent.parent for h2_element in python_jobs
 ]
